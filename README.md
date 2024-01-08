@@ -1,4 +1,4 @@
-# Death Row Inmates in Texas: An Analysis
+# Echoes of Fate: Analyzing Demographics, Education, and Last Words of Texas' Death Row Inmates
 
 ## Project Overview
 
