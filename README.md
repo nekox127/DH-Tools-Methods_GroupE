@@ -41,7 +41,7 @@ We will use the following tools for analysis:
 
 Voyant: Analyzing frequently occurring words and patterns in the Final Statements.  
 R (stylo): Comparing stylistic and linguistic features to understand demographic influences on language use.  
-ArcGIS: Providing a clear overview of Texan counties and exploring potential correlations with education levels and economic data.  
+ArcGIS: Providing a clear overview of Texan counties and exploring potential correlations with counties.  
 ## Repository Contents
 
 This Github repository includes:
