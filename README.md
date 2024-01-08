@@ -33,7 +33,7 @@ Explore common themes or patterns in last statements.
 Identify similarities and differences based on demographic factors such as age, ethnicity, county of origin, and level of education.  
 ## Research Question (RQ)
 
-How do personal characteristics and socio-cultural factors influence the thematic content and emotional tenor of final statements by death row inmates in Texas, and what does this reveal about the broader implications of capital punishment in the context of justice and societal values?  
+What key insights can be drawn from the Texas death row dataset, particularly in terms of race, age, county, education level, prior occupation, and last statements, to enhance our understanding of the death row situation?
 
 ## Tools and Technologies
 
@@ -46,7 +46,7 @@ ArcGIS: Providing a clear overview of Texan counties and exploring potential cor
 
 This Github repository includes:
 
-Traditionally written reports  
+Reports  
 Dataset files  
 Data Visualization  
 
