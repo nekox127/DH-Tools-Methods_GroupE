@@ -3,14 +3,12 @@
 ## Project Overview
 
 This project aims to analyze data provided by the Texas Department of Criminal Justice (TDCJ) on Death Row inmates.   
-The existing datasets on [Kaggle](https://www.kaggle.com/datasets/samerhijjazi/death-row-inmates-last-statements-texas-2020/data) by Samar Hijjazi (Hijjazi, 2020) and Nguyen (Nguyen, 2017) provide valuable information but are outdated and lack some crucial details. To address these limitations, we plan to build upon and enhance the existing datasets.
+The existing datasets on [Kaggle](https://www.kaggle.com/datasets/samerhijjazi/death-row-inmates-last-statements-texas-2020/data) by Samar Hijjazi (Hijjazi, 2020) and Nguyen (Nguyen, 2017) provide valuable information but are outdated and lack some crucial details. To address these limitations, we plan to build upon and enhance the existing datasets.  
+We have employed web scraping techniques to update the data, and manually inputted essential information, including 'Level (Highest Grade Completed)', 'Date of Offense', and 'Prior Occupation'.
 
 ## Dataset Variables
 
-Our dataset includes the following variables:
- 
-- Last Name
-- First Name
+Our dataset includes the following variables:  
 - TDCJ Number
 - Age  
 - Date Executed
@@ -51,3 +49,6 @@ This Github repository includes:
 - Dataset files
 
 We will explore the possibility of turning this report into a data visualization story to enhance accessibility and understanding.
+
+## Ethical Consideration
+To uphold privacy and ethical standards, we have removed the last name and first name of every inmate in the dataset.
